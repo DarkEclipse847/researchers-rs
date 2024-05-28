@@ -1,0 +1,9 @@
+[package]
+name = "researchers"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.13"
+bevy_asset_loader = {version = "0.20.2", features = ["2d"]}
+bevy-inspector-egui = "0.24.0"
